@@ -1,0 +1,50 @@
+* {
+    color: brown;
+}
+h1 {
+    color: darkgreen;
+    
+}
+.coding {
+    color: blue;
+}
+
+div {
+    margin: 20px 30px;
+    padding: 4px 6px;
+}
+img {
+    max-width: 100%
+}
+div.overflow {
+    border: 2px solid black;
+    width: 180px;
+    font-size: 50px;
+    overflow: auto;
+}
+
+a {
+    text-decoration: none;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color:black;
+}
+
+.container {
+    border: 2px solid blue;
+    border-radius: 20px;
+    width: 360px;
+    background-color:azure;
+}
+.background {
+    background-image: url(lion-king.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 360px ;
+    width: 360px;
+    height: 360px;
+
+}
