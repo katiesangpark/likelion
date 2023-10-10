@@ -1,0 +1,7 @@
+Include/
+Lib/
+/pyvenv.cfg
+requirements.txt
+Scripts/
+Pipfile
+pyvenv.cfg
